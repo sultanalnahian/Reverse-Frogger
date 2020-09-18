@@ -1,5 +1,5 @@
 # Reverse-Frogger
-#Installation
+## Installation
 1. Create a conda environment with python 3.6
 2. Install pytorch with following command \
 conda install pytorch=1.0.1 torchvision=0.2.2 cudatoolkit=10.0 -c pytorch
